@@ -4,7 +4,7 @@ import Exclusivetop from './Exclusivetop'
 
 const Exclusivesection = () => {
   return (
-    <div>
+    <div className='bg-[#f1f1f2]'>
     <Exclusivetop></Exclusivetop>
     <Exclusivebottom></Exclusivebottom>
     </div>

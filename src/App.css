@@ -14,3 +14,22 @@ body{
     background-size: cover;
     background-position: center;
 }
+#exclusiveCard1{
+    background-image: url('assets/home-icon-sprite.png');
+
+}
+#exclusiveCard2{
+    background-image: url('assets/home-icon-sprite.png');
+    background: url('assets/home-icon-sprite.png') no-repeat;
+    background-size: cover;
+    background-position: top -296px center;
+}
+#exclusiveCard3{
+    background-image: url('assets/home-icon-sprite.png');
+    background: url('assets/home-icon-sprite.png') no-repeat;
+    background-size: cover;
+    background-position: top -592px center;
+}
+.card{
+    box-shadow: 1px 1px 10px 0px #989898;
+}
